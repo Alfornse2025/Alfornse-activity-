@@ -38,3 +38,26 @@ Generated {date} · Sources: Google Calendar ×2, Otter.ai ({n} new recordings),
 ## 6 · One decision needed today
 
 {The single decision that unblocks the most. One question, framed with its options.}
+
+- **Option 1:** … {pro / con / risk}
+- **Option 2:** … {pro / con / risk}
+- **Recommend:** … because …
+- `Confidence: {High/Medium/Low} — {what would raise it}`
+
+---
+
+## ⚠ Flagged — needs you personally
+
+*SENSITIVE items (legal, financial, PII, HR, KRA Tier-1) and anything matching an escalation trigger. Identified only — not processed, not drafted against. Omit this section when empty.*
+
+| Item | From | Why flagged | Decision needed |
+|---|---|---|---|
+
+## Proposals awaiting approval
+
+*Nothing here has happened. Approve individually. Logged in `agent/AUDIT-LOG.md`.*
+
+| # | Proposal | Why now | If wrong |
+|---|---|---|---|
+| 1 | {draft reply to …} | | |
+| 2 | {move Tue 16:30 MPP block to …} | | |
