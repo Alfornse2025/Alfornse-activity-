@@ -1,6 +1,7 @@
 # MASTER ACTION TRACKER
 
-Last refreshed: **Saturday 25 July 2026, morning run** · Timezone: EAT
+Last refreshed: **Thursday 6 August 2026, 16:54 EAT** (off-cycle run) · Timezone: EAT
+Previous refresh: 25 July 2026. Rows created before that date carry `⟳ unverified` — the system did not run for ten days and their status has not been confirmed with you.
 Conventions: see `SYSTEM.md §4`. One bucket per action. Never delete — archive.
 
 ---
@@ -11,26 +12,38 @@ Conventions: see `SYSTEM.md §4`. One bucket per action. Never delete — archiv
 
 | ID | Action | Owner | Source | Due | Status |
 |---|---|---|---|---|---|
-| A1-01 | Prepare the **new revenue opportunities workstream** under the agreed heading and present it | Alfornse | Otter — KRA Executive Committee, 20 Jul | Week of 3 Aug | Open |
-| A1-02 | Define scope and requirements for the **PS lab meeting**; lead the lab issue | Alfornse (lead) | Otter — KRA Executive Committee, 20 Jul | Week of 3 Aug | Open |
-| A1-03 | Share finances for the computer installation and identify the **top 10% performers** | Alfornse (with OPM) | Otter — KRA Executive Committee, 20 Jul | 31 Jul | Open |
+| **A1-05** | **Submit Commissioner's/HOD's priorities on the CG template** for the FY 2026/27 Leadership Summit | Alfornse | Email — CG office (Samson Rotich), 6 Aug | **Mon 10 Aug, 12:00** | Open |
+| **A1-04** | **Prepare the top-200 Leadership Summit agenda and key messages**, including the communication plan for chief managers and other leaders | Alfornse | Otter — Budget & Financial Performance Review, 3 Aug | Before travel, Wed 12 Aug | Open |
+| **A1-06** | **Convene the follow-up revenue performance discussion for Monday** to review specific actions for closing the collection gap | Alfornse | Otter — Revenue Performance Review, 3 Aug | Schedule by Fri 7 Aug | Open |
+| **A1-07** | Develop a **specific, measurable action plan for raising collections** across the identified high-potential areas, with expected outcomes | Alfornse | Otter — Revenue Performance Review, 3 Aug | Mon 10 Aug | Open |
+| **A1-08** | Review the **withholding-tax policy issue** and propose an amendment making withholding mandatory and non-withholding a liability | Alfornse | Otter — Revenue Performance Review, 3 Aug | Mon 10 Aug (feeds the Treasury package) | Open |
+| A1-01 | Prepare the **new revenue opportunities workstream** and present it | Alfornse | Otter — KRA Executive Committee, 20 Jul | Week of 3 Aug — **now overdue** | ⟳ unverified |
+| A1-02 | Define scope and requirements for the **PS lab meeting**; lead the lab issue | Alfornse (lead) | Otter — KRA Executive Committee, 20 Jul | Week of 3 Aug — **now overdue** | ⟳ unverified |
+| A1-03 | Share finances for the computer installation and identify the **top 10% performers** | Alfornse (with OPM) | Otter — KRA Executive Committee, 20 Jul | 31 Jul — **overdue** | ⟳ unverified |
 
 ### A2. Executive Committee / departmental follow-ups
 
 | ID | Action | Owner | Source | Due | Status |
 |---|---|---|---|---|---|
-| A2-01 | Verify the **budget line-items breakdown** was delivered (was due EOD 20 Jul) | Alfornse (chase) | Otter — KRA Executive Committee, 20 Jul | 27 Jul | Open |
-| A2-02 | Confirm rollout plan for **electronic government performance controls** (training + updated numbers) is on track | ICT owner; Alfornse monitors | Otter — KRA Executive Committee, 20 Jul | 31 Jul | Waiting |
-| A2-03 | Track **advance cargo declaration** proof-of-concept → customs/shipping-line training → 3-month pilot portal | Customs owner; Alfornse monitors | Otter — KRA Executive Committee, 20 Jul | Aug pilot start | Waiting |
-| A2-04 | Contact **Eugenia** re leave papers / three-week extension raised in mid-year review | Alfornse | Otter — Mid-year review session, 20 Jul | 27 Jul | Open |
+| **A2-05** | **Review the teammate and iTax audit-module options**, integrate where appropriate, return the best-value implementation plan | Alfornse | Otter — Budget & Financial Performance Review, 3 Aug | **Mon 10 Aug** | Open |
+| **A2-09** | Review the **4 Aug EXCO action-point draft** (Samson Rotich → David Muli) and confirm your items are captured correctly *before* it enters the official Excel tracker | Alfornse | Email, 4 Aug | Fri 7 Aug | Open |
+| **A2-06** | Targeted review of the **top-10 refund-heavy exporters** — verify the underlying exports are legitimate, on-the-ground checks if needed | Alfornse | Otter — Revenue Performance Review, 3 Aug | *Proposed:* Fri 21 Aug (no date set in the room) | Open |
+| **A2-07** | Prepare and share the **revenue data pack** so the team can review drivers and gaps | Alfornse | Otter — Revenue Performance Review, 3 Aug | With A1-06, Mon 10 Aug | Open |
+| **A2-08** | Collect the **list of staff needing transport to the retreat**; arrange official transport only on request, others carpool or self-drive | Alfornse | Otter — Budget & Financial Performance Review, 3 Aug | Tue 11 Aug | Open |
+| **A2-10** | Read the two **iTax analyses** (data-migration legacy docs; revenue-leakage analysis Jan 2020–Jun 2026) — input to A2-05. *Tier-1: read in situ, no extracts* | Alfornse | Email — Jimmy Wati, 3 & 4 Aug | Before A2-05 | Open |
+| A2-04 | Contact **Eugenia** re leave papers / three-week extension | Alfornse | Otter — Mid-year review session, 20 Jul | 27 Jul — **overdue** | ⟳ unverified |
+| A2-01 | Verify the **budget line-items breakdown** was delivered | Alfornse (chase) | Otter — KRA Executive Committee, 20 Jul | 27 Jul — **overdue** | ⟳ unverified |
+| A2-02 | Confirm rollout of **electronic government performance controls** is on track | ICT owner; Alfornse monitors | Otter — KRA Executive Committee, 20 Jul | 31 Jul | ⟳ unverified · Waiting |
+| A2-03 | Track **advance cargo declaration** PoC → training → 3-month pilot portal | Customs owner; Alfornse monitors | Otter — KRA Executive Committee, 20 Jul | Aug pilot start | ⟳ unverified · Waiting |
 
 ### A3. External stakeholders
 
 | ID | Action | Owner | Source | Due | Status |
 |---|---|---|---|---|---|
-| A3-01 | **Staff mortgage scheme (NUCTECH meeting): prepare & circulate the proposal summary — bank list + implementation schedule** — ahead of the next stakeholder meeting; then board approval → treasury consultation → bank negotiations | **Alfornse** (named action item) | Otter — KRA × NUCTECH, 21 Jul | **Before 28 Jul** | Open |
-| A3-02 | Confirm outcome of the CG + Legal follow-up meeting (was set for 22 Jul, 08:30, International Lighthouse 13th-floor) and capture next steps | Alfornse | Otter — KRA × NUCTECH, 21 Jul | 27 Jul | Open |
-| A3-03 | Rebel Group / IFC PPF meeting — prepare position & desired outcomes | Alfornse | Calendar — Wed 29 Jul 10:00, Invest Kenya 15th-floor boardroom | 29 Jul | Open |
+| **A3-04** | **Respond in the Leadership Summit facilitator thread** (The Everyone Group — Adam, René Carayol, Zak; Eugenia coordinating). Themes are being agreed while you are silent on a thread whose agenda you own. *PII in thread — do not forward or quote* | Alfornse | Email, 5–6 Aug | Fri 7 Aug | Open |
+| A3-01 | **Staff mortgage scheme (NUCTECH): prepare & circulate the proposal summary** — bank list + implementation schedule | Alfornse | Otter — KRA × NUCTECH, 21 Jul | Before 28 Jul — **overdue** | ⟳ unverified |
+| A3-02 | Confirm outcome of the CG + Legal follow-up meeting (22 Jul) and capture next steps | Alfornse | Otter — KRA × NUCTECH, 21 Jul | 27 Jul — **overdue** | ⟳ unverified |
+| A3-03 | Rebel Group / IFC PPF — prepare position & desired outcomes | Alfornse | Calendar — 29 Jul | 29 Jul — superseded by C2-02 | ⟳ unverified |
 
 ---
 
@@ -38,10 +51,12 @@ Conventions: see `SYSTEM.md §4`. One bucket per action. Never delete — archiv
 
 | ID | Action | Owner | Source | Due | Status |
 |---|---|---|---|---|---|
-| B1-01 | Weekly call with daughters (Sun 16:00) and with son (Thu 20:00) — protect these slots | Alfornse | Calendar (recurring) | Weekly | Recurring |
-| B3-01 | MPP study blocks Tue & Thu 16:30–18:00 — current focus: Environmental Economics revision notes (prompt doc ready in Drive) | Alfornse | Calendar + Drive — `MPP_Environmental_Economics_Notes_Prompt.md` | Ongoing | In progress |
-| B3-02 | **Resolve Tuesday 28 Jul conflict**: MPP study 16:30–18:00 overlaps Leadership improvement session 17:00–17:30 — move one | Alfornse | Calendar conflict check, 25 Jul | 27 Jul | Open |
-| B4-01 | Sunday 18:00 weekly plan ritual — run with `templates/weekly-review.md` | Alfornse | Calendar (recurring) | Sun 26 Jul | Recurring |
+| **B1-02** | **Thursday 13 Aug 20:00 call with son falls inside the Leadership Summit** (Naivasha). Move it or tell him now — don't decide from the road | Alfornse | Calendar conflict check, 6 Aug | Before Wed 12 Aug | Open |
+| **B3-03** | **Tue 11 Aug clash recurs**: MPP study 16:30–18:00 vs Leadership session 17:00–17:30, plus the seminar follow-up block 16:00–17:00. Thu 13 MPP also falls inside the summit | Alfornse | Calendar conflict check, 6 Aug | Sun 9 Aug (weekly plan) | Open |
+| B1-01 | Weekly call with daughters (Sun 16:00) and son (Thu 20:00) — protect these slots | Alfornse | Calendar (recurring) | Weekly | Recurring |
+| B3-01 | MPP study blocks Tue & Thu 16:30–18:00 — Environmental Economics revision notes (prompt doc in Drive) | Alfornse | Calendar + Drive | Ongoing | In progress |
+| B3-02 | Resolve the Tue 28 Jul MPP / Leadership overlap | Alfornse | Calendar, 25 Jul | 27 Jul | ⟳ unverified — **recurred as B3-03** |
+| B4-01 | Sunday 18:00 weekly plan ritual — `templates/weekly-review.md` | Alfornse | Calendar (recurring) | Sun 9 Aug | Recurring |
 
 ---
 
@@ -49,9 +64,10 @@ Conventions: see `SYSTEM.md §4`. One bucket per action. Never delete — archiv
 
 | ID | Action | Owner | Source | Due | Status |
 |---|---|---|---|---|---|
-| C1-01 | **Draft Year 2 outline** — goals, markets, hiring, projects (today 10:00–12:00 block) | Alfornse | Calendar — Sat 25 Jul | 25 Jul | Open |
-| C1-02 | **Write & publish Mid-Year Insights report** on business growth trends (Tue 14:00–15:00 block; feed it from the Year 2 outline) | Alfornse | Calendar — Tue 28 Jul | 28 Jul | Open |
-| C2-01 | Decide on **Own Source Revenue discussion** (Mon 27 Jul 15:00, 15th-floor boardroom — currently *declined* on the calendar; McKinsey + Invest Kenya attending). Attending positions KRP for county OSR advisory (see O-02) | Alfornse | Calendar — Mon 27 Jul | **26 Jul** | Open |
+| **C2-02** | **Rebel Group / IFC PPF, Wed 12 Aug 10:00** — identify one concrete scope where KRP could be subcontracted or seconded; follow up bilaterally (O-03) | Alfornse | Calendar + email, 5 Aug | Wed 12 Aug | Open |
+| C2-01 | Own Source Revenue engagement — **now accepted** (Mon 10 Aug 09:00, moved from Tue 11 on 4 Aug) plus document review Tue 11 Aug 11:00. Positions KRP for county OSR advisory (O-02) | Alfornse | Calendar — 4 Aug update | Mon 10 Aug | Open — **see Monday conflict** |
+| C1-02 | **Mid-Year Insights report** — was due Tue 28 Jul. Confirm whether it published | Alfornse | Calendar — 28 Jul | 28 Jul | ⟳ unverified |
+| C1-01 | Year 2 outline — goals, markets, hiring, projects | Alfornse | Calendar — 25 Jul | 25 Jul | ⟳ unverified |
 | C5-01 | Maintain the income-opportunity register; review at Sunday weekly plan | Alfornse | `opportunities/INCOME-OPPORTUNITIES.md` | Weekly | Recurring |
 
 ---
@@ -59,3 +75,10 @@ Conventions: see `SYSTEM.md §4`. One bucket per action. Never delete — archiv
 ## Archive (Done / Dropped)
 
 *Empty — first month of operation. Completed items move here at month-end with completion dates.*
+
+---
+
+### Note on the eight new A-bucket rows
+
+A1-04, A1-06, A1-07, A1-08, A2-05, A2-06, A2-07 and A2-08 come from Otter's action-item attribution on the 3 August sessions, which names you as owner on all eight. Several are phrased as directives issued *in* the room rather than tasks assigned *to* you — on A2-06 and A2-08 in particular you may be the convener rather than the doer. Confirm ownership at the Sunday weekly plan and re-assign where the room meant someone else.
+`Confidence: Medium — Otter attributes by speaker, not by assignment.`

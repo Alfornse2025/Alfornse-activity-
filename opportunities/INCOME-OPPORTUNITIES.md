@@ -19,15 +19,15 @@ MECE note: opportunities live here (C5) even when they originate in KRA work —
 - **What:** Counties chronically under-collect OSR (property rates, parking, licences). Advisory + KRP Technologies collection-platform play.
 - **Why you:** Monday's OSR discussion (Invest Kenya + McKinsey in the room) is a direct window into demand; PSEO role gives county-level relationships.
 - **Resources needed:** OSR diagnostic one-pager; a platform/collections partner or KRP Technologies build scope; entry county shortlist (2–3).
-- **Next action:** Decide attendance at Monday 15:00 meeting (tracker C2-01); if not attending, obtain the deck and minutes.
-- **Status:** Watch → Develop this week
+- **Next action:** *(updated 6 Aug)* You are now **accepted** for Mon 10 Aug 09:00 and the Tue 11 Aug 11:00 document review. In the room, establish **who implements after the diagnostic** — that answer decides whether this is an opportunity or an unpaid contribution. Prep card: `briefings/prep/2026-08-10-own-source-revenue.md`.
+- **Status:** Develop
 
 ## O-03 · PPP / project-preparation work (Rebel Group – IFC PPF channel)
 
 - **What:** Project-preparation-facility engagements (financial structuring, transaction advisory) alongside Rebel Group and IFC through the Invest Kenya pipeline — fee-earning workstreams for KRP Capital/Advisory.
 - **Why you:** Already in the recurring meeting (Wed 29 Jul, accepted); banking/structuring background fits PPF scopes exactly.
 - **Resources needed:** KRP Capital capability statement; clarity on whether you engage personally or through KRP; IFC vendor/consultant registration.
-- **Next action:** At Wednesday's meeting, identify one concrete scope where KRP could be subcontracted or seconded; follow up bilaterally with Rebel Group.
+- **Next action:** *(updated 6 Aug)* Wed 12 Aug 10:00 — ask who staffs project preparation once a project is selected; that question *is* the scope conversation. Pursue bilaterally with Ndenga or Harshil afterwards, never in the room. Three months of framework talk with no named candidate project is the risk to close. Prep card: `briefings/prep/2026-08-12-rebel-group-ifc-ppf.md`.
 - **Status:** Develop
 
 ## O-04 · Structured staff-financing schemes (banks × institutions)
@@ -43,8 +43,8 @@ MECE note: opportunities live here (C5) even when they originate in KRA work —
 - **What:** The Mid-Year Insights report (calendar, Tue 28 Jul) and a regular publishing rhythm (LinkedIn + newsletter) as the top of funnel for O-01–O-04.
 - **Why you:** Distinctive vantage point (revenue authority + restructuring + public policy); existing LinkedIn governance-newsletter audience engaging with your themes.
 - **Resources needed:** 2h writing block (already calendar-blocked); a distribution checklist (LinkedIn article + post + targeted shares to 10 named contacts); consistent monthly slot thereafter.
-- **Next action:** Publish Tuesday; end the report with a soft call-to-action pointing at KRP Advisory.
-- **Status:** Pursue (this week)
+- **Next action:** *(updated 6 Aug)* Whether the 28 Jul report published is **unverified** — confirm at the Sunday plan `[C1-02]`. Meanwhile the co-hosted partnership seminar (Mon 10 Aug 10:00) and its follow-up email block (Tue 11 Aug 16:00) are the live visibility moment already on the calendar; treat the follow-ups as business development, with a named list rather than a blanket send.
+- **Status:** Pursue
 
 ## O-06 · Ventures portfolio yield (farm, retail, land)
 

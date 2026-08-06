@@ -14,6 +14,7 @@ A structured daily operating system for Alfornse Kisilu: a **Chief of Staff agen
 | `agent/workflows/` | Run-books: morning coordination, meeting prep, follow-up, weekly, inbox triage |
 | `SYSTEM.md` | How the system works: sources, cadence, MECE framework, rules |
 | `briefings/` | One morning briefing per day (`YYYY-MM-DD-briefing.md`) |
+| `briefings/prep/` | Meeting prep cards (`YYYY-MM-DD-<meeting>.md`), one per meeting needing preparation |
 | `tracker/ACTION-TRACKER.md` | The master action tracker — single source of truth for open actions |
 | `opportunities/INCOME-OPPORTUNITIES.md` | Income opportunity register with required resources |
 | `templates/` | MECE templates: briefing, weekly review, meeting prep card, email drafts |

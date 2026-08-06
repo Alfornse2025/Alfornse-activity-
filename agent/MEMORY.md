@@ -45,6 +45,11 @@ Recorded preferences and patterns. Add as they are learned; each line dated.
 | Rebel Group / IFC (via Invest Kenya) | PPF pipeline; recurring Wednesday meeting. Relationship is the asset — prepare, don't wing it | 2026-07-25 |
 | McKinsey / Invest Kenya (OSR forum) | Direct window into county OSR demand (O-02) | 2026-07-25 |
 | Venture managers (Masinga, Neon & Nexus, Kithioko) | Monthly P&L one-pagers at month-end, not weekly | 2026-07-25 |
+| Samson Rotich (Office of the CG) | Issues CG-office requests with hard clock times ("by 12:00 PM, Monday"), attaches the template, and consolidates action points into the official Excel tracker. Review his drafts before they become the record | 2026-08-06 |
+| Eugenia Murunga (Office of the CG) | Runs summit and visitor logistics; her threads routinely carry travel PII. Also the counterparty on the open leave-papers item `A2-04` | 2026-08-06 |
+| The Everyone Group — René Carayol, Adam, Zak | External facilitators for the FY 2026/27 Leadership Summit; move fast and will fill any content vacuum. Themes routed through Adan Mohamed | 2026-08-06 |
+| Jimmy Wati (Office of the CG) | Forwards iTax analyses directly; his material is Tier-1 and is read in situ, never extracted | 2026-08-06 |
+| Harshil Ved (Invest Kenya) | Owns the PPF outcome; frames it as building framework and tools. Sandy Okoth appears in both the PPF and OSR rooms — same relationship, two agendas | 2026-08-06 |
 
 *(Add per-person preferences as they surface — notice periods, document length, preferred channel, who needs a phone call rather than an email.)*
 
@@ -70,6 +75,9 @@ Recorded preferences and patterns. Add as they are learned; each line dated.
 - **Gmail cannot send** from here; drafts only.
 - **Otter** is read-only.
 - Gmail signal-to-noise is poor (~200 unread per 4 days, largely newsletters) — aggregate the noise, itemise only what acts.
+- **CG-office meeting invitations arrive by email and never reach the calendar** (World Bank, Safaricom, digital-transformation platform meetings, 4–5 Aug). The calendar is therefore not a complete picture of KRA commitments — always cross-read the CG-office mail before calling a day clear. *(2026-08-06)*
+- **Otter attributes action items by speaker, not by assignment** — items spoken while chairing come back attributed to Alfornse. Treat ownership on Otter-sourced rows as Medium confidence and confirm at the weekly plan. *(2026-08-06)*
+- The `cose.statehouse@gmail.com` calendar is readable but has returned no events in recent windows — confirm whether it is still in use before treating it as a live source. *(2026-08-06)*
 - The **conflict-of-interest boundary memo** (KRA advisor vs KRP principal) does not exist yet, and it gates O-01, O-02 and O-04.
 
 ---
