@@ -4,6 +4,10 @@ Wednesday 12 August · 10:00–11:30 EAT · 15th floor boardroom, Invest Kenya (
 Bucket `C2` · Class `PREP` · Recurring weekly series since May · Organiser: Harshil Ved (Invest Kenya)
 *Note: you travel to Naivasha for the Leadership Summit the same evening. This meeting is the last clear commercial slot before you are away for two days.*
 
+> ### ⚠ Standing changed — 6 Aug
+> **You have left KenInvest.** This series is convened by Invest Kenya, in their boardroom, and the invitation may have followed the seat rather than you. The Rebel Group (Ndenga, Rob Winters) and IFC (Markus Kimani) relationships are personally yours and survive the exit — the standing invitation may not.
+> Settle it before Wednesday with one line to Harshil: you have left, and you will see him at the meeting in your own capacity. Then everything below applies — and applies *better*, because you arrive as a potential provider rather than a colleague.
+
 ---
 
 ## Objective
@@ -17,7 +21,7 @@ Advance the project-preparation facility (PPF) from framework discussion to defi
 | Harshil Ved (Invest Kenya) | Organiser, owns the outcome | A working PPF framework Invest Kenya can operate | Your 6 May summary of agreed principles — well received, never contradicted |
 | Ndenga Mulonga, Rob Winters (Rebel Group) | Technical partners | A defined delivery role | Ndenga circulated agreed action points 8 May |
 | Markus Njehiah Kimani (IFC) | Funder / sector gatekeeper | Confidence the framework fits IFC's sectors | — |
-| Heather Munyao, Chacha Naphtaly, Pius Rotich, Sandy Okoth, Kevin Gaitho, Doris Olutende (Invest Kenya) | Delivery team | Clarity on their own roles | Sandy also sits in Monday's OSR room |
+| Heather Munyao, Chacha Naphtaly, Pius Rotich, Sandy Okoth, Kevin Gaitho, Doris Olutende (Invest Kenya) | Delivery team | Clarity on their own roles | Former colleagues as of this week — the room's read of you has changed even if the faces haven't |
 
 ## Carried forward
 

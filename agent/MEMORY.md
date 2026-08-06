@@ -43,13 +43,14 @@ Recorded preferences and patterns. Add as they are learned; each line dated.
 | Eugenia | Open thread on leave papers / three-week extension (A2-04) | 2026-07-25 |
 | NUCTECH / bank counterparties (Stanbic, National Bank) | Staff-mortgage scheme; Alfornse is the named owner of the proposal summary. Commercial terms are SENSITIVE | 2026-07-25 |
 | Rebel Group / IFC (via Invest Kenya) | PPF pipeline; recurring Wednesday meeting. Relationship is the asset — prepare, don't wing it | 2026-07-25 |
-| McKinsey / Invest Kenya (OSR forum) | Direct window into county OSR demand (O-02) | 2026-07-25 |
+| ~~McKinsey / Invest Kenya (OSR forum)~~ | **Closed 6 Aug** — was the access route to county OSR demand (O-02); ended with the KenInvest role. Chiara Pullem (McKinsey) was a first-contact-only relationship, not yet yours | 2026-08-06 |
 | Venture managers (Masinga, Neon & Nexus, Kithioko) | Monthly P&L one-pagers at month-end, not weekly | 2026-07-25 |
 | Samson Rotich (Office of the CG) | Issues CG-office requests with hard clock times ("by 12:00 PM, Monday"), attaches the template, and consolidates action points into the official Excel tracker. Review his drafts before they become the record | 2026-08-06 |
 | Eugenia Murunga (Office of the CG) | Runs summit and visitor logistics; her threads routinely carry travel PII. Also the counterparty on the open leave-papers item `A2-04` | 2026-08-06 |
 | The Everyone Group — René Carayol, Adam, Zak | External facilitators for the FY 2026/27 Leadership Summit; move fast and will fill any content vacuum. Themes routed through Adan Mohamed | 2026-08-06 |
 | Jimmy Wati (Office of the CG) | Forwards iTax analyses directly; his material is Tier-1 and is read in situ, never extracted | 2026-08-06 |
-| Harshil Ved (Invest Kenya) | Owns the PPF outcome; frames it as building framework and tools. Sandy Okoth appears in both the PPF and OSR rooms — same relationship, two agendas | 2026-08-06 |
+| Harshil Ved (Invest Kenya) | Owns the PPF outcome; frames it as building framework and tools. Convenes the Wed PPF series — since the KenInvest exit, your standing in that room is unsettled | 2026-08-06 |
+| Ndenga Mulonga, Rob Winters (Rebel Group); Markus Kimani (IFC) | **Personal relationships — they survive the KenInvest exit.** The convening seat did not; these did | 2026-08-06 |
 
 *(Add per-person preferences as they surface — notice periods, document length, preferred channel, who needs a phone call rather than an email.)*
 
@@ -67,6 +68,16 @@ Recorded preferences and patterns. Add as they are learned; each line dated.
 *(Populate further from the three sample emails in the onboarding checklist.)*
 
 ---
+
+## 4a · Roles — current and ended
+
+| Role | State | Note | Set |
+|---|---|---|---|
+| **KenInvest / Invest Kenya** | **Ended** *(confirmed 6 Aug 2026)* | Both Own Source Revenue weekly series removed from the calendar. Anything convened by Invest Kenya — including the Rebel Group / IFC PPF series — needs its basis re-established before you attend. Do not treat an Invest Kenya invitation as a standing commitment | 2026-08-06 |
+| KRA — Advisor to the Commissioner General | Live | The centre of gravity; bucket A | 2026-07-25 |
+| KRP Holding (Advisory, Capital, Technologies) | Live | Principal; bucket C1 | 2026-07-25 |
+| PSEO | **Unconfirmed** | Bucket C2 was defined around PSEO, and the OSR work sat there too. Whether PSEO is still live has not been confirmed — ask before ranking anything C2 | 2026-08-06 |
+| MPP — Strathmore | Live | Bucket B3 | 2026-07-25 |
 
 ## 5 · Known constraints
 

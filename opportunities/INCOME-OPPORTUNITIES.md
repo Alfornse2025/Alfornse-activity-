@@ -17,15 +17,15 @@ MECE note: opportunities live here (C5) even when they originate in KRA work —
 ## O-02 · County Own-Source Revenue (OSR) advisory
 
 - **What:** Counties chronically under-collect OSR (property rates, parking, licences). Advisory + KRP Technologies collection-platform play.
-- **Why you:** Monday's OSR discussion (Invest Kenya + McKinsey in the room) is a direct window into demand; PSEO role gives county-level relationships.
-- **Resources needed:** OSR diagnostic one-pager; a platform/collections partner or KRP Technologies build scope; entry county shortlist (2–3).
-- **Next action:** *(updated 6 Aug)* You are now **accepted** for Mon 10 Aug 09:00 and the Tue 11 Aug 11:00 document review. In the room, establish **who implements after the diagnostic** — that answer decides whether this is an opportunity or an unpaid contribution. Prep card: `briefings/prep/2026-08-10-own-source-revenue.md`.
-- **Status:** Develop
+- **Why you:** *(revised 6 Aug)* The KRA vantage — customs valuation, compliance analytics, arrears management — translates to county collection problems, and that expertise is yours independent of any employer. **What has changed:** the access route ran through the Invest Kenya OSR forum, and you no longer work at KenInvest. The market is intact; the seat in the room is gone.
+- **Resources needed:** OSR diagnostic one-pager; a platform/collections partner or KRP Technologies build scope; entry county shortlist (2–3); **and now, a way back into the demand conversation that does not depend on the KenInvest seat** — a county treasury relationship, a Council of Governors contact, or a development-partner channel (World Bank county PFM work).
+- **Next action:** Name one route to county demand that survives the KenInvest exit, and test it before promoting this back to `Develop`. Nothing else on this entry is worth doing until that exists.
+- **Status:** **Watch** — downgraded from `Develop` on 6 Aug when the access route closed
 
 ## O-03 · PPP / project-preparation work (Rebel Group – IFC PPF channel)
 
 - **What:** Project-preparation-facility engagements (financial structuring, transaction advisory) alongside Rebel Group and IFC through the Invest Kenya pipeline — fee-earning workstreams for KRP Capital/Advisory.
-- **Why you:** Already in the recurring meeting (Wed 29 Jul, accepted); banking/structuring background fits PPF scopes exactly.
+- **Why you:** Banking/structuring background fits PPF scopes exactly, and you set out the shared understanding of the framework in May. ⚠ **Under review (6 Aug):** this series is convened by Invest Kenya (Harshil Ved) and runs in their boardroom. Now that you have left KenInvest, confirm whether you are still in the room — and if you are, on what basis: as a continuing participant, or as an external adviser. The Rebel Group and IFC relationships are yours and survive either way; the standing invitation may not.
 - **Resources needed:** KRP Capital capability statement; clarity on whether you engage personally or through KRP; IFC vendor/consultant registration.
 - **Next action:** *(updated 6 Aug)* Wed 12 Aug 10:00 — ask who staffs project preparation once a project is selected; that question *is* the scope conversation. Pursue bilaterally with Ndenga or Harshil afterwards, never in the room. Three months of framework talk with no named candidate project is the risk to close. Prep card: `briefings/prep/2026-08-12-rebel-group-ifc-ppf.md`.
 - **Status:** Develop

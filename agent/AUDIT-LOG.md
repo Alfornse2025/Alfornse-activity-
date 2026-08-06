@@ -23,6 +23,10 @@ State: `Proposed` → `Approved` / `Refused` / `Withdrawn` → `Done`.
 | 2026-08-06 | 16:54 | — · SENSITIVE | Facilitator logistics thread | **Stopped** — travel PII (passport numbers). Not processed, quoted or stored | Flagged | Owner: Eugenia |
 | 2026-08-06 | 16:54 | A2 · SENSITIVE | iTax revenue-leakage analysis | **Stopped** — Tier-1. Action-level reference only, no figures recorded | Flagged | Read in situ before A2-05 |
 | 2026-08-06 | 16:54 | — · SENSITIVE | Staff housing allocation thread | **Stopped** — HR/personal data on named individuals. Copied only, no action | Flagged | No action |
+| 2026-08-06 | 17:06 | C2 · DO | "Own Source Revenue discussion" — weekly series, open-ended | **Delete whole series from calendar** (KenInvest role ended) | **Approved** — explicit instruction | **Done.** Series cancelled; your response recorded as declined. `notificationLevel: NONE` — no email to the 11 Invest Kenya/McKinsey attendees |
+| 2026-08-06 | 17:08 | C2 · DO | "Own Source Revenue - doc reviews" — weekly series, open-ended | Same | **Approved** | **Done.** Same handling. Calendar verified clear of OSR through 15 Sep |
+| 2026-08-06 | 17:10 | C2 · DO | Consequences of the KenInvest exit | Tracker `C2-01` → Dropped; `O-02` → Watch; `O-03` flagged; 6 Aug brief corrected; OSR prep card deleted; `MEMORY.md §4a` roles table added | — | Done — repository only |
+| 2026-08-06 | 17:10 | C2 · DECIDE | Rebel Group / IFC PPF, Wed 12 Aug | Attend in own capacity after a one-line note to Harshil Ved | Proposed | Awaiting decision (brief §6) |
 
 ---
 

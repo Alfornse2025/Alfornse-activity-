@@ -64,8 +64,8 @@ Conventions: see `SYSTEM.md §4`. One bucket per action. Never delete — archiv
 
 | ID | Action | Owner | Source | Due | Status |
 |---|---|---|---|---|---|
-| **C2-02** | **Rebel Group / IFC PPF, Wed 12 Aug 10:00** — identify one concrete scope where KRP could be subcontracted or seconded; follow up bilaterally (O-03) | Alfornse | Calendar + email, 5 Aug | Wed 12 Aug | Open |
-| C2-01 | Own Source Revenue engagement — **now accepted** (Mon 10 Aug 09:00, moved from Tue 11 on 4 Aug) plus document review Tue 11 Aug 11:00. Positions KRP for county OSR advisory (O-02) | Alfornse | Calendar — 4 Aug update | Mon 10 Aug | Open — **see Monday conflict** |
+| **C2-02** | **Rebel Group / IFC PPF, Wed 12 Aug 10:00** — identify one concrete scope where KRP could be subcontracted or seconded (O-03). ⚠ **This is also an Invest Kenya series** — confirm whether you still attend now that you have left KenInvest | Alfornse | Calendar + email, 5 Aug | **Decide by Tue 11 Aug** | Open — premise under review |
+| C2-01 | ~~Own Source Revenue engagement (Invest Kenya)~~ | — | Calendar | — | **Dropped 6 Aug** — you no longer work at KenInvest. Both weekly series removed from the calendar |
 | C1-02 | **Mid-Year Insights report** — was due Tue 28 Jul. Confirm whether it published | Alfornse | Calendar — 28 Jul | 28 Jul | ⟳ unverified |
 | C1-01 | Year 2 outline — goals, markets, hiring, projects | Alfornse | Calendar — 25 Jul | 25 Jul | ⟳ unverified |
 | C5-01 | Maintain the income-opportunity register; review at Sunday weekly plan | Alfornse | `opportunities/INCOME-OPPORTUNITIES.md` | Weekly | Recurring |
