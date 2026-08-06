@@ -9,7 +9,7 @@ Timezone: Africa/Nairobi (EAT, UTC+3). All times below are EAT.
 | Source | What is pulled | Used for |
 |---|---|---|
 | Google Calendar — `alfornse@gmail.com` | Today + 7-day lookahead, all events | Schedule, conflicts, deadline events |
-| Google Calendar — `cose.statehouse@gmail.com` | Same window | State House / PSEO commitments |
+| Google Calendar — `cose.statehouse@gmail.com` | Same window | State House commitments. *Was also the PSEO source; that role ended August 2026 and this calendar has returned no events since — confirm whether it is still in use* |
 | Otter.ai | Recordings since the last briefing: AI summaries + **action items** | New actions into the tracker; meeting follow-ups |
 | Gmail | Unread inbox, last 96h, noise filtered | Urgent items, meeting requests, deadlines |
 | Google Drive | Recently modified working documents | Work-in-progress context; deliverable status |
@@ -40,7 +40,7 @@ Top level — three mutually exclusive, collectively exhaustive buckets:
   - B4. Personal finance & admin
 - **C. Other (ventures & income)**
   - C1. KRP Holding (Advisory, Technologies, Capital, Opportunities Fund)
-  - C2. PSEO — President's Strategy & Execution Office
+  - C2. External engagements — advisory, board and convening roles outside KRA and KRP. *Formerly defined as PSEO / KenInvest (Invest Kenya); **both roles ended August 2026** and their recurring commitments were removed from the calendar. The bucket is retained — the ID scheme depends on it, historical rows live here, and future external roles belong here — but it currently holds no live engagement. Do not file new work under C2 without a named, current role.*
   - C3. Farm & retail (Masinga Farm; Neon & Nexus)
   - C4. Land & property (Kanyonyoo, Naivasha/Azu SPV, Kithioko container homes)
   - C5. Income-opportunity pipeline (see `opportunities/INCOME-OPPORTUNITIES.md`)

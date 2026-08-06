@@ -23,7 +23,7 @@ Generated {date} · Sources: Google Calendar ×2, Otter.ai ({n} new recordings),
 
 **A · KRA** — {directives due, chases, meeting prep}
 **B · Personal** — {family, health, MPP, admin}
-**C · Other** — {KRP, PSEO, ventures, opportunity actions}
+**C · Other** — {KRP, ventures, opportunity actions}
 
 ## 4 · New inputs since last briefing
 

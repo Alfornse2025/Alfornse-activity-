@@ -62,10 +62,13 @@ Conventions: see `SYSTEM.md §4`. One bucket per action. Never delete — archiv
 
 ## C. Other — ventures & income
 
+> **Bucket C2 has no live engagement as of 6 August 2026.** The PSEO and KenInvest roles both ended; all three recurring Invest Kenya series were removed from the calendar. C2 is kept for the ID scheme and for future external roles — see `SYSTEM.md §3`. Nothing new is filed there without a named, current role.
+
 | ID | Action | Owner | Source | Due | Status |
 |---|---|---|---|---|---|
-| **C2-02** | **Rebel Group / IFC PPF, Wed 12 Aug 10:00** — identify one concrete scope where KRP could be subcontracted or seconded (O-03). ⚠ **This is also an Invest Kenya series** — confirm whether you still attend now that you have left KenInvest | Alfornse | Calendar + email, 5 Aug | **Decide by Tue 11 Aug** | Open — premise under review |
-| C2-01 | ~~Own Source Revenue engagement (Invest Kenya)~~ | — | Calendar | — | **Dropped 6 Aug** — you no longer work at KenInvest. Both weekly series removed from the calendar |
+| C2-02 | ~~Rebel Group / IFC PPF (Invest Kenya series)~~ | — | Calendar | — | **Dropped 6 Aug** — weekly series removed (ran to 22 Oct). See C5 note below: the Rebel Group and IFC contacts are retained personally |
+| C2-01 | ~~Own Source Revenue engagement (Invest Kenya)~~ | — | Calendar | — | **Dropped 6 Aug** — you no longer work at KenInvest. Both weekly series removed |
+| **C5-02** | **Preserve the three relationships that outlived the seat** — Ndenga Mulonga and Rob Winters (Rebel Group), Markus Kimani (IFC). One note each before they hear it from someone else, on your own footing, no ask attached | Alfornse | KenInvest exit, 6 Aug | Fri 14 Aug (after the summit) | Open |
 | C1-02 | **Mid-Year Insights report** — was due Tue 28 Jul. Confirm whether it published | Alfornse | Calendar — 28 Jul | 28 Jul | ⟳ unverified |
 | C1-01 | Year 2 outline — goals, markets, hiring, projects | Alfornse | Calendar — 25 Jul | 25 Jul | ⟳ unverified |
 | C5-01 | Maintain the income-opportunity register; review at Sunday weekly plan | Alfornse | `opportunities/INCOME-OPPORTUNITIES.md` | Weekly | Recurring |

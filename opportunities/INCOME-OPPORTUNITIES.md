@@ -25,10 +25,10 @@ MECE note: opportunities live here (C5) even when they originate in KRA work —
 ## O-03 · PPP / project-preparation work (Rebel Group – IFC PPF channel)
 
 - **What:** Project-preparation-facility engagements (financial structuring, transaction advisory) alongside Rebel Group and IFC through the Invest Kenya pipeline — fee-earning workstreams for KRP Capital/Advisory.
-- **Why you:** Banking/structuring background fits PPF scopes exactly, and you set out the shared understanding of the framework in May. ⚠ **Under review (6 Aug):** this series is convened by Invest Kenya (Harshil Ved) and runs in their boardroom. Now that you have left KenInvest, confirm whether you are still in the room — and if you are, on what basis: as a continuing participant, or as an external adviser. The Rebel Group and IFC relationships are yours and survive either way; the standing invitation may not.
-- **Resources needed:** KRP Capital capability statement; clarity on whether you engage personally or through KRP; IFC vendor/consultant registration.
-- **Next action:** *(updated 6 Aug)* Wed 12 Aug 10:00 — ask who staffs project preparation once a project is selected; that question *is* the scope conversation. Pursue bilaterally with Ndenga or Harshil afterwards, never in the room. Three months of framework talk with no named candidate project is the risk to close. Prep card: `briefings/prep/2026-08-12-rebel-group-ifc-ppf.md`.
-- **Status:** Develop
+- **Why you:** Banking/structuring background fits PPF scopes exactly, and you set out the shared understanding of the framework in May — that note still stands unchallenged. **What changed (6 Aug):** the weekly series was convened by Invest Kenya and has been removed with the KenInvest exit. You are out of the room. **What did not change:** Ndenga Mulonga and Rob Winters (Rebel Group) and Markus Kimani (IFC) are relationships, not seats, and PPF work is bought from outside institutions as often as from inside them.
+- **Resources needed:** KRP Capital capability statement; clarity on whether you engage personally or through KRP; **IFC vendor/consultant registration — now the gating item**, since the informal route through the Invest Kenya room is closed.
+- **Next action:** Write to Ndenga and to Markus separately within the week `[C5-02]` — you have left, the PPF thinking interests you, and you would like to stay in touch. No ask attached. Then start IFC vendor registration, which is slow and is now the only formal way in.
+- **Status:** **Watch** — downgraded from `Develop` on 6 Aug. Promote back to `Develop` when either contact responds substantively or vendor registration completes.
 
 ## O-04 · Structured staff-financing schemes (banks × institutions)
 

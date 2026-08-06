@@ -26,7 +26,10 @@ State: `Proposed` → `Approved` / `Refused` / `Withdrawn` → `Done`.
 | 2026-08-06 | 17:06 | C2 · DO | "Own Source Revenue discussion" — weekly series, open-ended | **Delete whole series from calendar** (KenInvest role ended) | **Approved** — explicit instruction | **Done.** Series cancelled; your response recorded as declined. `notificationLevel: NONE` — no email to the 11 Invest Kenya/McKinsey attendees |
 | 2026-08-06 | 17:08 | C2 · DO | "Own Source Revenue - doc reviews" — weekly series, open-ended | Same | **Approved** | **Done.** Same handling. Calendar verified clear of OSR through 15 Sep |
 | 2026-08-06 | 17:10 | C2 · DO | Consequences of the KenInvest exit | Tracker `C2-01` → Dropped; `O-02` → Watch; `O-03` flagged; 6 Aug brief corrected; OSR prep card deleted; `MEMORY.md §4a` roles table added | — | Done — repository only |
-| 2026-08-06 | 17:10 | C2 · DECIDE | Rebel Group / IFC PPF, Wed 12 Aug | Attend in own capacity after a one-line note to Harshil Ved | Proposed | Awaiting decision (brief §6) |
+| 2026-08-06 | 17:10 | C2 · DECIDE | Rebel Group / IFC PPF, Wed 12 Aug | Attend in own capacity after a note to Harshil Ved | **Refused** | Superseded — removal chosen instead |
+| 2026-08-06 | 17:14 | C2 · DO | "Rebel Group, IFC PPF" — weekly series to 22 Oct | **Delete whole series from calendar** | **Approved** — explicit instruction | **Done.** `notificationLevel: NONE` — no email to the 12 attendees, including Rebel Group and IFC |
+| 2026-08-06 | 17:20 | C2 · DO | PSEO role confirmed ended | Redefine bucket C2 across `SYSTEM.md`, `README`, tracker, register, `MEMORY.md`, prompt, workflow A and the briefing template; drop C2-02; open C5-02; downgrade O-03 to Watch; delete the PPF prep card | **Approved** — explicit instruction | Done — repository only |
+| 2026-08-06 | 17:20 | C5 · DECIDE | Ndenga Mulonga, Rob Winters, Markus Kimani | Two short notes tomorrow — you have left, no ask attached `[C5-02]` | Proposed | Awaiting decision (brief §6) |
 
 ---
 

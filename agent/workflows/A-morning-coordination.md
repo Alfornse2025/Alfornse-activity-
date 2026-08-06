@@ -11,7 +11,7 @@
 | Source | Window | Notes |
 |---|---|---|
 | Google Calendar `alfornse@gmail.com` | Today + 7-day lookahead | All events, including declined and unanswered |
-| Google Calendar `cose.statehouse@gmail.com` | Same | State House / PSEO |
+| Google Calendar `cose.statehouse@gmail.com` | Same | State House. *Was also the PSEO source; that role ended Aug 2026 and the calendar has returned no events since — confirm whether it is still in use* |
 | Otter.ai | Recordings since the last briefing | Summaries **and** action items |
 | Gmail | Unread, last 96h | Noise filtered, not deleted |
 | Google Drive | Recently modified | Working documents only |

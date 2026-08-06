@@ -42,7 +42,7 @@ Every briefing, tracker entry and follow-up plan is divided into three mutually 
 
 1. **KRA** — the Kenya Revenue Authority engagement (Advisor to the Commissioner General): directives, committee follow-ups, stakeholder meetings.
 2. **Personal** — family, health, MPP studies (Strathmore), personal finance and admin.
-3. **Other** — KRP Holding & subsidiaries, PSEO, farm & retail operations (Masinga, Neon & Nexus), land/property projects, and the income-opportunity pipeline.
+3. **Other** — KRP Holding & subsidiaries, external advisory roles (C2 — *no live engagement since the PSEO and KenInvest roles ended in August 2026*), farm & retail operations (Masinga, Neon & Nexus), land/property projects, and the income-opportunity pipeline.
 
 Every action lives in exactly one category. Nothing is uncategorised.
 
