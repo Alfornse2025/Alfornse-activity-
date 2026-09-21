@@ -17,18 +17,18 @@ MECE note: opportunities live here (C5) even when they originate in KRA work —
 ## O-02 · County Own-Source Revenue (OSR) advisory
 
 - **What:** Counties chronically under-collect OSR (property rates, parking, licences). Advisory + KRP Technologies collection-platform play.
-- **Why you:** Monday's OSR discussion (Invest Kenya + McKinsey in the room) is a direct window into demand; PSEO role gives county-level relationships.
-- **Resources needed:** OSR diagnostic one-pager; a platform/collections partner or KRP Technologies build scope; entry county shortlist (2–3).
-- **Next action:** Decide attendance at Monday 15:00 meeting (tracker C2-01); if not attending, obtain the deck and minutes.
-- **Status:** Watch → Develop this week
+- **Why you:** *(revised 6 Aug)* The KRA vantage — customs valuation, compliance analytics, arrears management — translates to county collection problems, and that expertise is yours independent of any employer. **What has changed:** the access route ran through the Invest Kenya OSR forum, and you no longer work at KenInvest. The market is intact; the seat in the room is gone.
+- **Resources needed:** OSR diagnostic one-pager; a platform/collections partner or KRP Technologies build scope; entry county shortlist (2–3); **and now, a way back into the demand conversation that does not depend on the KenInvest seat** — a county treasury relationship, a Council of Governors contact, or a development-partner channel (World Bank county PFM work).
+- **Next action:** Name one route to county demand that survives the KenInvest exit, and test it before promoting this back to `Develop`. Nothing else on this entry is worth doing until that exists.
+- **Status:** **Watch** — downgraded from `Develop` on 6 Aug when the access route closed
 
 ## O-03 · PPP / project-preparation work (Rebel Group – IFC PPF channel)
 
 - **What:** Project-preparation-facility engagements (financial structuring, transaction advisory) alongside Rebel Group and IFC through the Invest Kenya pipeline — fee-earning workstreams for KRP Capital/Advisory.
-- **Why you:** Already in the recurring meeting (Wed 29 Jul, accepted); banking/structuring background fits PPF scopes exactly.
-- **Resources needed:** KRP Capital capability statement; clarity on whether you engage personally or through KRP; IFC vendor/consultant registration.
-- **Next action:** At Wednesday's meeting, identify one concrete scope where KRP could be subcontracted or seconded; follow up bilaterally with Rebel Group.
-- **Status:** Develop
+- **Why you:** Banking/structuring background fits PPF scopes exactly, and you set out the shared understanding of the framework in May — that note still stands unchallenged. **What changed (6 Aug):** the weekly series was convened by Invest Kenya and has been removed with the KenInvest exit. You are out of the room. **What did not change:** Ndenga Mulonga and Rob Winters (Rebel Group) and Markus Kimani (IFC) are relationships, not seats, and PPF work is bought from outside institutions as often as from inside them.
+- **Resources needed:** KRP Capital capability statement; clarity on whether you engage personally or through KRP; **IFC vendor/consultant registration — now the gating item**, since the informal route through the Invest Kenya room is closed.
+- **Next action:** Write to Ndenga and to Markus separately within the week `[C5-02]` — you have left, the PPF thinking interests you, and you would like to stay in touch. No ask attached. Then start IFC vendor registration, which is slow and is now the only formal way in.
+- **Status:** **Watch** — downgraded from `Develop` on 6 Aug. Promote back to `Develop` when either contact responds substantively or vendor registration completes.
 
 ## O-04 · Structured staff-financing schemes (banks × institutions)
 
@@ -43,8 +43,8 @@ MECE note: opportunities live here (C5) even when they originate in KRA work —
 - **What:** The Mid-Year Insights report (calendar, Tue 28 Jul) and a regular publishing rhythm (LinkedIn + newsletter) as the top of funnel for O-01–O-04.
 - **Why you:** Distinctive vantage point (revenue authority + restructuring + public policy); existing LinkedIn governance-newsletter audience engaging with your themes.
 - **Resources needed:** 2h writing block (already calendar-blocked); a distribution checklist (LinkedIn article + post + targeted shares to 10 named contacts); consistent monthly slot thereafter.
-- **Next action:** Publish Tuesday; end the report with a soft call-to-action pointing at KRP Advisory.
-- **Status:** Pursue (this week)
+- **Next action:** *(updated 6 Aug)* Whether the 28 Jul report published is **unverified** — confirm at the Sunday plan `[C1-02]`. Meanwhile the co-hosted partnership seminar (Mon 10 Aug 10:00) and its follow-up email block (Tue 11 Aug 16:00) are the live visibility moment already on the calendar; treat the follow-ups as business development, with a named list rather than a blanket send.
+- **Status:** Pursue
 
 ## O-06 · Ventures portfolio yield (farm, retail, land)
 
